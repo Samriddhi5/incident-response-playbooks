@@ -107,6 +107,6 @@ The rogue AP was likely a device brought in by an external contractor. Wi-Fi MAC
 ---
 
 > *Prepared by:*  
-> Alex R.  
+> Samriddhi 
 > Security Engineer – Detection Team  
 > 2025-03-11
