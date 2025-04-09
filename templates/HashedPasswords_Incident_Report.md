@@ -106,6 +106,6 @@ The stolen backup tapes were inadequately secured and stored without proper encr
 ---
 
 > *Prepared by:*  
-> Alex R.  
+> Samriddhi 
 > Security Operations Team  
 > 2025-02-20
